@@ -3,10 +3,10 @@
 🎓 Indiana University, 2024
 🗺 Fort Wayne, IN 
 
-🌐 <https://stuartwfindley.webflow.io/>
-🤝 <https://www.linkedin.com/in/stuartwfindley/>
-📚 <https://www.goodreads.com/stuwaltfin>
-📫 stuartfindley0120@gmail.com
+🌐 <https://stuartwfindley.webflow.io/>  
+🤝 <https://www.linkedin.com/in/stuartwfindley/>  
+📚 <https://www.goodreads.com/stuwaltfin>  
+📫 stuartfindley0120@gmail.com  
 
 
 
