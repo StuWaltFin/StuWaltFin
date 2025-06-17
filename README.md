@@ -1,16 +1,11 @@
 ## Howdy friends
 
 🎓 Indiana University, 2024
-
 🗺 Fort Wayne, IN 
 
-
 🌐 <https://stuartwfindley.webflow.io/>
-
 🤝 <https://www.linkedin.com/in/stuartwfindley/>
-
-📃 See my resume on my LinkedIn or website
-
+📚 <https://www.goodreads.com/stuwaltfin>
 📫 stuartfindley0120@gmail.com
 
 
